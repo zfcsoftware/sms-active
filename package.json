@@ -1,0 +1,26 @@
+{
+  "name": "node-sms-active",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sms active",
+    "sms-active",
+    "sms verify",
+    "sms-verify",
+    "sms active api",
+    "sms active sdk",
+    "sms active code",
+    "sms-active-api",
+    "sms-active-sdk",
+    "sms-active-code"
+  ],
+  "author": "ZFC SOFTWARE",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
