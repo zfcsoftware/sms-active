@@ -1,7 +1,7 @@
 {
   "name": "node-sms-active",
   "version": "1.0.8",
-  "description": "",
+  "description": "It performs functions such as number purchase and code waiting using sms active api.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
