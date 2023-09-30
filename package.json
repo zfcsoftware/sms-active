@@ -1,6 +1,6 @@
 {
   "name": "node-sms-active",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,11 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zfcsoftware/sms-active.git"
+  },
+  "readme": "README.md",
+  "homepage": "https://www.npmjs.com/package/node-sms-active"
 }
