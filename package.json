@@ -1,6 +1,6 @@
 {
   "name": "node-sms-active",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "It performs functions such as number purchase and code waiting using sms active api.",
   "main": "index.js",
   "scripts": {
